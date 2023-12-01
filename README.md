@@ -1,7 +1,10 @@
 ### Hi there 👋  
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Welcome%20to%20Jongeun's%20Github&fontSize=55)
+
+![Jongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=joannekim0420)
 
 
-
+## Career
 | Type | Date | Field | Organization |
 | -------- | -------- | -------- | -------- |
 | Education | 2022.08~ | major> AI Graduate School, Lab> Multimodal Learning, NLP| UNIST |
